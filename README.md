@@ -4,9 +4,7 @@
 Building the future of AI-powered experiences
 </p>
 
-<p align="center">
-  <img src="https://via.placeholder.com/800x200?text=FRIDAY+AI" />
-</p>
+<img src="https://raw.githubusercontent.com/codedbyOzzy/codedbyOzzy/main/assets/githubozzy.png" width="100%">
 
 ---
 
