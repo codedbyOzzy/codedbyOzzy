@@ -1,11 +1,11 @@
 <h2 align="center">Ozzy</h2>
 
 <p align="center">
-  <strong>Building FRIDAY ⚡</strong>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Building+FRIDAY+⚡;AI+Developer;Automation+%26+Intelligence" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/codedbyOzzy/codedbyOzzy/main/assets/githubozzy.png" width="48%">
+  <img src="https://raw.githubusercontent.com/codedbyOzzy/codedbyOzzy/main/assets/githubozzy.png" width="45%">
 </p>
 
 <p align="center">
@@ -24,6 +24,13 @@
 ## 🛠 Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,nextjs,nodejs,python,tailwind,mongodb" />
+</p>
+
+---
+
+## ⚡ Live Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codedbyOzzy&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
