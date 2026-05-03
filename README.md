@@ -1,9 +1,10 @@
-<h1 align="center">Hi, I'm Ozzy 👋</h1>
+<h1 align="center">Ozzy</h1>
 
 <p align="center">
-Building the future of AI-powered experiences
+  Building FRIDAY – Next-gen AI assistant ⚡
 </p>
 
+<p align="center">
 <img src="https://raw.githubusercontent.com/codedbyOzzy/codedbyOzzy/main/assets/githubozzy.png" width="60%">
 
 ---
