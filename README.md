@@ -37,8 +37,8 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codedbyOzzy&show_icons=true&theme=tokyonight&hide_border=true" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codedbyOzzy&layout=compact&theme=tokyonight&hide_border=true" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=codedbyOzzy&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codedbyOzzy&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="150">
 </p>
 
 ---
@@ -46,6 +46,6 @@
 ## 🔥 Featured Project
 <p align="center">
   <a href="https://github.com/codedbyOzzy/ProjectFRIDAY">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=codedbyOzzy&repo=ProjectFRIDAY&theme=tokyonight&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=codedbyOzzy&repo=ProjectFRIDAY&theme=tokyonight&hide_border=true&cache_seconds=1800">
   </a>
 </p>
