@@ -1,4 +1,4 @@
-<h3 align="center">Ozzy</h3>
+<h4 align="center">Ozzy</h4>
 
 <p align="center">
   Building FRIDAY ⚡
@@ -9,11 +9,11 @@
 </p>
 
 <p align="center">
-  🤖 AI • Automation • Real-time Systems
+  AI • Automation • Systems
 </p>
 
 <p align="center">
   <a href="https://github.com/codedbyOzzy/ProjectFRIDAY">
-    <b>🚀 FRIDAY</b>
+    🚀 FRIDAY
   </a>
 </p>
