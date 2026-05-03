@@ -4,7 +4,7 @@
 Building the future of AI-powered experiences
 </p>
 
-<img src="https://raw.githubusercontent.com/codedbyOzzy/codedbyOzzy/main/assets/githubozzy.png" width="100%">
+<img src="https://raw.githubusercontent.com/codedbyOzzy/codedbyOzzy/main/assets/githubozzy.png" width="60%">
 
 ---
 
