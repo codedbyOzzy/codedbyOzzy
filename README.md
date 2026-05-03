@@ -7,33 +7,7 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/codedbyOzzy/codedbyOzzy/main/assets/githubozzy.png" width="60%">
 
----
+## 🚀 FRIDAY
+Next-generation AI assistant
 
-## 🚀 About Me
-- 🤖 Building **FRIDAY** – Next-gen AI assistant
-- ⚡ Focused on AI, automation & real-time systems
-- 🧠 Passionate about intelligent interfaces
-
----
-
-## 🛠️ Tech Stack
-- JavaScript / TypeScript
-- Next.js / Node.js
-- AI / LLM Systems
-- Tailwind CSS
-
----
-
-## 🔥 Featured Project
-
-### 🚀 FRIDAY
-> A next-generation intelligent desktop assistant
-
-- AI-powered interactions  
-- Automation workflows  
-- Real-time experience  
-
----
-
-## 📫 Connect
-- GitHub: https://github.com/codedbyOzzy
+👉 Check my repositories below ⬇️
