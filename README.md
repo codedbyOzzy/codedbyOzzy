@@ -1,16 +1,40 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Ozzy 👋</h1>
 
-<!--
-**codedbyOzzy/codedbyOzzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Building the future of AI-powered experiences
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://via.placeholder.com/800x200?text=FRIDAY+AI" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+- 🤖 Building **FRIDAY** – Next-gen AI assistant
+- ⚡ Focused on AI, automation & real-time systems
+- 🧠 Passionate about intelligent interfaces
+
+---
+
+## 🛠️ Tech Stack
+- JavaScript / TypeScript
+- Next.js / Node.js
+- AI / LLM Systems
+- Tailwind CSS
+
+---
+
+## 🔥 Featured Project
+
+### 🚀 FRIDAY
+> A next-generation intelligent desktop assistant
+
+- AI-powered interactions  
+- Automation workflows  
+- Real-time experience  
+
+---
+
+## 📫 Connect
+- GitHub: https://github.com/codedbyOzzy
