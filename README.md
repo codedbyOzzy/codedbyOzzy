@@ -1,29 +1,66 @@
-<h4 align="center">Ozzy</h4>
+﻿# 💠 Architecting the Future of Computing
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2500&pause=1200&color=00F7FF&center=true&vCenter=true&width=280&lines=Building+FRIDAY+⚡;AI+Developer;Automation+%26+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=0070F3&center=true&vCenter=true&width=600&lines=PROJECT+ASA:+The+AI-Native+OS+Layer;THESingularity:+The+Awareness+Ecosystem;Deterministic+Autonomous+Agents;Systems+Architecture+%26+Security" alt="Typing SVG" />
+</p>
+
+---
+
+### 🏛️ Operational Focus
+
+I am currently developing **PROJECT ASA**, an AI-native operating system layer designed to bridge the gap between intelligent reasoning and deterministic execution. Simultaneously, I am orchestrating **THESingularity**, an integrated awareness ecosystem built for the next era of digital intelligence.
+
+---
+
+### 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description | Status |
+| :--- | :--- | :--- |
+| **[PROJECT ASA](https://github.com/codedbyOzzy/Project-ASA)** | The AI-Native Operating Layer. | Operational_Beta |
+| **[THESingularity](https://github.com/codedbyOzzy/the-singularity)** | The Awareness Ecosystem. | Active_Sync |
+| **[Project FRIDAY](https://github.com/codedbyOzzy/ProjectFRIDAY)** | The Autonomous AI Assistant. | Core_Stability |
+
+</div>
+
+---
+
+### 💻 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=rust,py,ts,react,nextjs,tauri,sqlite,postgres,docker,git,github,vscode" alt="Tech Stack" />
+</p>
+
+---
+
+### 📊 Vital Signs
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=codedbyOzzy&show_icons=true&theme=transparent&hide_border=true&title_color=0070F3&text_color=888&icon_color=0070F3" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codedbyOzzy&layout=compact&theme=transparent&hide_border=true&title_color=0070F3&text_color=888" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/codedbyOzzy/ProjectFRIDAY">
-    <img src="https://img.shields.io/badge/FRIDAY-AI%20Assistant-0A0A0A?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codedbyOzzy&theme=transparent&hide_border=true&stroke=0070F3&ring=00DFD8&fire=FFB800&currStreakLabel=0070F3" alt="GitHub Streak" />
+</p>
+
+---
+
+### 📜 Manifesto
+
+I believe that computing is entering its most critical phase: the transition from tools that wait to systems that act. 
+
+**Join the synchronization.**
+
+<div align="center">
+  <a href="https://codedbyozzy.github.io/Project-ASA-Web/">
+    <img src="https://img.shields.io/badge/ASA_LIVE_DEMO-0070F3?style=for-the-badge&logo=ai&logoColor=white" />
   </a>
-</p>
+</div>
+
+---
 
 <p align="center">
-  Intelligent • Automated • Real-time
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/codedbyOzzy/codedbyOzzy/main/assets/githubozzy.png" width="30%">
-</p>
-
-<p align="center">
-  AI • Automation • Systems
-</p>
-
-<p align="center">
-  <a href="https://github.com/codedbyOzzy/ProjectFRIDAY">
-    🚀 FRIDAY
-  </a>
+  © 2026. Built with absolute precision for humanity.
 </p>
