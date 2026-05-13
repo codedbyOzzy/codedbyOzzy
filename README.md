@@ -18,9 +18,9 @@ I am currently developing **PROJECT ASA**, an AI-native operating system layer d
 
 | Project | Description | Status |
 | :--- | :--- | :--- |
-| **[PROJECT ASA](https://github.com/codedbyOzzy/Project-ASA)** | The AI-Native Operating Layer. | Operational_Beta |
-| **[THESingularity](https://github.com/codedbyOzzy/the-singularity)** | The Awareness Ecosystem. | Active_Sync |
-| **[Project FRIDAY](https://github.com/codedbyOzzy/ProjectFRIDAY)** | The Autonomous AI Assistant. | Core_Stability |
+| **[PROJECT ASA](https://github.com/codedbyOzzy/Project-ASA)** | The AI-Native Operating Layer. | In_Development |
+| **[THESingularity](https://github.com/codedbyOzzy/the-singularity)** | The Awareness Ecosystem. | Released |
+| **[Project FRIDAY](https://github.com/codedbyOzzy/ProjectFRIDAY)** | The Autonomous AI Assistant. | Closed_Beta |
 
 </div>
 
@@ -30,19 +30,6 @@ I am currently developing **PROJECT ASA**, an AI-native operating system layer d
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=rust,py,ts,react,nextjs,tauri,sqlite,postgres,docker,git,github,vscode" alt="Tech Stack" />
-</p>
-
----
-
-### 📊 Vital Signs
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codedbyOzzy&show_icons=true&theme=transparent&hide_border=true&title_color=0070F3&text_color=888&icon_color=0070F3" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codedbyOzzy&layout=compact&theme=transparent&hide_border=true&title_color=0070F3&text_color=888" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codedbyOzzy&theme=transparent&hide_border=true&stroke=0070F3&ring=00DFD8&fire=FFB800&currStreakLabel=0070F3" alt="GitHub Streak" />
 </p>
 
 ---
