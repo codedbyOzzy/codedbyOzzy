@@ -8,7 +8,7 @@
 
 ### 🏛️ Operational Focus
 
-I am currently developing **PROJECT ASA**, an AI-native operating system layer designed to bridge the gap between intelligent reasoning and deterministic execution. Simultaneously, I am orchestrating **THESingularity**, an integrated awareness ecosystem built for the next era of digital intelligence.
+I am currently developing **Project FRIDAY and PROJECT ASA**, an AI-native operating system layer designed to bridge the gap between intelligent reasoning and deterministic execution. Simultaneously, I am orchestrating **THESingularity**, an integrated awareness ecosystem built for the next era of digital intelligence.
 
 ---
 
