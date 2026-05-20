@@ -1,4 +1,4 @@
-﻿# 💠 Architecting the Future of Computing
+# 💠 Architecting the Future of Computing
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=0070F3&center=true&vCenter=true&width=600&lines=PROJECT+ASA:+The+AI-Native+OS+Layer;THESingularity:+The+Awareness+Ecosystem;Deterministic+Autonomous+Agents;Systems+Architecture+%26+Security" alt="Typing SVG" />
@@ -8,7 +8,7 @@
 
 ### 🏛️ Operational Focus
 
-I am currently developing **Project FRIDAY and PROJECT ASA**, an AI-native operating system layer designed to bridge the gap between intelligent reasoning and deterministic execution. Simultaneously, I am orchestrating **THESingularity**, an integrated awareness ecosystem built for the next era of digital intelligence.
+I am currently developing **ARIA and PROJECT ASA**, an AI-native operating system layer designed to bridge the gap between intelligent reasoning and deterministic execution. Simultaneously, I am orchestrating **THESingularity**, an integrated awareness ecosystem built for the next era of digital intelligence.
 
 ---
 
@@ -20,7 +20,7 @@ I am currently developing **Project FRIDAY and PROJECT ASA**, an AI-native opera
 | :--- | :--- | :--- |
 | **[PROJECT ASA](https://github.com/codedbyOzzy/Project-ASA)** | The AI-Native Operating Layer. | In_Development |
 | **[THESingularity](https://github.com/codedbyOzzy/the-singularity)** | The Awareness Ecosystem. | Released |
-| **[Project FRIDAY](https://github.com/codedbyOzzy/ProjectFRIDAY)** | The Autonomous AI Assistant. | Closed_Beta |
+| **[ARIA](https://github.com/codedbyOzzy/ARIA)** | The Personal AI Operating System. | Active |
 
 </div>
 
